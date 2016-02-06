@@ -1,0 +1,28 @@
+name: Why Marco Rubio Is A Little Prick
+favicon: null
+layout_spectrum: 0.7612389852292836
+typography_spectrum: 0.09574934653937817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8319378388114274
+  lightness: 0.7819572892040014
+  saturation: 0.8390968390740454
+  rhythmicContrast: 0.020494397962465882
+purpose: []
